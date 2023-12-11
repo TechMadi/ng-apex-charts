@@ -15,6 +15,11 @@ All properties are updated on an id  `chart`.To change the look and feel  we use
 Chart Options  contains details about the chart, labels, markers,stroke,noData,xaxis(X Axis details),yaxis(Y Axis details),tooltips,labels,dataLabels,titles .
 Most of them have inbult interface eg `ApexChartDataLabel` etc etc 
 
+## Chart Tool Bar
+
+`ApexChartToolBar` enables  you  to add extra functionalities such  allowing zoom in or zoom out   and if possible  export functions 
+You are  able to export the  chart in  `PNG|SVG|CSV`
+
 ## Styling Library
 The project has used `ng-bootstrap `.Check it  out via  [Ng Bootstrap](https://ng-bootstrap.github.io/#/home).
 
