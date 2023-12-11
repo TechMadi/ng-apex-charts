@@ -2,26 +2,25 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
-## Development server
+## Project Scope
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This  project is about how to consume `ng-apexchart` chart library in angular 
 
-## Code scaffolding
+## Basic Summary
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+All properties are updated on an id  `chart`.To change the look and feel  we use chartOptions
 
-## Build
+## Chart Options
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Chart Options  contains details about the chart, labels, markers,stroke,noData,xaxis(X Axis details),yaxis(Y Axis details),tooltips,labels,dataLabels,titles .
+Most of them have inbult interface eg `ApexChartDataLabel` etc etc 
 
-## Running unit tests
+## Styling Library
+The project has used `ng-bootstrap `.Check it  out via  [Ng Bootstrap](https://ng-bootstrap.github.io/#/home).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## See More 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Check more of my repos [TechMadi](https://github.com/TechMadi)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
